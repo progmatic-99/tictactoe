@@ -1,5 +1,5 @@
 # Tictactoe
-the AI enabled tic tac toe game
+the AI enabled Tic Tac Toe game
 
 ## Current Status:
 The game can only be played by two players and also there is no option to choose between X and O, player 1 by default will be assigned X
