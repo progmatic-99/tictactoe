@@ -10,6 +10,10 @@
     --cell-size: 100px;
     --mark-size: calc(var(--cell-size) * .9);
   }
+
+  body {
+      background: linear-gradient(45deg, #e37682, #5f4d93);
+  }  
   
   .board>cell {
     margin: 0;
